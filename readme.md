@@ -7,7 +7,7 @@ This repository contains the full source code for the LoadProfileGenerator.
 
 This repository ends with version 9.6.0. Development continues in the repository of my employer, the Forschungszentrum Jülich - IEK 3
 
-https://github.com/FZJ-IEK3-VSA/LoadProfileGenerator
+# https://github.com/FZJ-IEK3-VSA/LoadProfileGenerator
 
 ## License
 MIT-License.
